@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\PassThruSupport.04.04\WiCAN-ESP32C3]
+"Name"="WiCAN ESP32C3 J2534"
+"FunctionLibrary"="C:\\Program Files\\WiCAN\\wican_j2534.dll"
+"Vendor"="Hands-On Technologies"
+"ConfigApplication"=""
+"CAN"=dword:00000001
+"ISO15765"=dword:00000001
